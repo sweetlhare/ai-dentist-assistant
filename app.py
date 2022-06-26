@@ -8,8 +8,6 @@ import cv2
 
 import torch
 
-from streamlit_lottie import st_lottie
-
 from colour import Color
 
 from sklearn.cluster import KMeans
