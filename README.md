@@ -4,7 +4,7 @@
 
 __Предсказания на тестовой выборке хранятся в файле test_predictions.xlsx__
 
-__Ссылка на веб-приложение https://share.streamlit.io/sweetlhare/save-leotigers/main/app_src/app.py__
+__Ссылка на веб-приложение https://sweetlhare-ai-dentist-assistant-app-wv1dxb.streamlitapp.com/__
 
 # 1. Запускаемость кода
 
