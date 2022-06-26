@@ -13,12 +13,6 @@ from sklearn.metrics import silhouette_score
 
 # from google_drive_downloader import GoogleDriveDownloader as gdd
 
-
-def load_lottiefile(filepath: str):
-    with open(filepath, "r") as f:
-        return json.load(f)
-
-
 # cloud_model_location = '1rTTqtAyP7AwGNNFMd-cGrx1A0mmO1XEY'
 # https://drive.google.com/file/d/1rTTqtAyP7AwGNNFMd-cGrx1A0mmO1XEY/view?usp=sharing
 
