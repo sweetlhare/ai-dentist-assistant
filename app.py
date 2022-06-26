@@ -8,8 +8,6 @@ import cv2
 
 import torch
 
-from colour import Color
-
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
