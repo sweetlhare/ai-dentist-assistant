@@ -1,3 +1,5 @@
+> **In English:** An AI dentist assistant — solution for the 'Digital Breakthrough: AI season, UrFO' hackathon. Includes a Streamlit web app and inference code; test-set predictions in test_predictions.xlsx. *(Full description in Russian below.)*
+
 # ИИ-ассистент стоматолога
 ## Репозиторий с решением хакатона Цифровой Прорыв: сезон ИИ в УФО.
 ## Команда – Московские Зайцы 🐰
